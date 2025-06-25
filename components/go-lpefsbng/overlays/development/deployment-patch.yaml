@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/go-lpefsbng:d84709ac7aa2d7af0634687c316a8e370639fa8c@sha256:01275991ca9c22f127e90bd637c831b5f2a717aebfe93bea7486943ed59b0dac
+        - image: quay.io/jsmid/go-lpefsbng:f241ae7ed37c0dc7ccbee2de55d14672124fc272@sha256:9a00710dc01c2c4f1617c62764ec0716a29ecca1fd2c37b8ca2abf101f6303f9
           name: container-image
